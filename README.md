@@ -1,5 +1,7 @@
 AIM-cpp
 =======
+An implementation of the AIM (attention via information maximization) machine vision algorithm in C++.
+
 Initial commit contains unedited code for AIM contained in three files (AIM.h, AIM.cpp, RunAIM.cpp).
 
 I'm not fully sure if these are all of the appropriate files, so more files may be added later. The first time a file is added, it SHOULD be unedited from its original form.
